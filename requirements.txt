@@ -1,0 +1,7 @@
+shutil
+PIL
+mimetypes
+ProgressBar
+hachoir.parser
+hachoir.metadata
+hachoir.core
